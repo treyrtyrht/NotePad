@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\search.png",
+        "source": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\add.png",
+        "source": "C:\\Users\\mao\\Desktop\\NotePad1-master\\app\\src\\main\\res\\drawable-ldpi\\add.png"
+    }
+]

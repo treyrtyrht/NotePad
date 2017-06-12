@@ -82,5 +82,13 @@ NoteEditor.updateNote()函数中修改</br>
         builder.setView(view).create().show();
 
     }
-     ![3](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
+     ![3](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4笔记导出  ![i](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/z9WHLd79enCWqRVQUAlWyPWjBVObfiEzq.ylor.Ei.k!/b/dG0BAAAAAAAA&bo=QwFvAkMBbwIDACU!&rf=viewer_4)//设置文件路径
+String filePath = Environment.getExternalStorageDirectory().getPath() + "/NotePad/ExportTxt/";
+//保存文件
+ToFile.writeTxtToFile(cursor.getString(colNoteIndex),filePath,cursor.getString(colTitleIndex));
+通过writeTxtToFile可以预先创建文件夹并且创建文件时将笔记中的标题以及文本信息写入txt格式的文件当中。 注意：
+
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+需要在AndroidManifest.xml添加上述代码，应用才具有文件写入权限。
+
 

@@ -82,8 +82,8 @@ NoteEditor.updateNote()函数中修改</br>
         builder.setView(view).create().show();
 
     }
-     ![3](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4）
-     
+     ![3](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
+
      
      
      

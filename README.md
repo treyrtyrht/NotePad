@@ -92,7 +92,9 @@ NoteEditor.updateNote()函数中修改</br>
      
      
      
-     4笔记导出  ![i](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/z9WHLd79enCWqRVQUAlWyPWjBVObfiEzq.ylor.Ei.k!/b/dG0BAAAAAAAA&bo=QwFvAkMBbwIDACU!&rf=viewer_4)//设置文件路径
+     4笔记导出  ![i](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/z9WHLd79enCWqRVQUAlWyPWjBVObfiEzq.ylor.Ei.k!/b/dG0BAAAAAAAA&bo=QwFvAkMBbwIDACU!&rf=viewer_4)
+      ![5](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/UUNwHi9aZY.tZ5daMOupw7RThKs6xxv.gcbBV.3xY2U!/b/dG0BAAAAAAAA&bo=OwFIAjsBSAIDACU!&rf=viewer_4)
+//设置文件路径
 String filePath = Environment.getExternalStorageDirectory().getPath() + "/NotePad/ExportTxt/";
 //保存文件
 ToFile.writeTxtToFile(cursor.getString(colNoteIndex),filePath,cursor.getString(colTitleIndex));

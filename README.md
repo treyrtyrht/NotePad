@@ -43,7 +43,7 @@ NoteEditor.updateNote()函数中修改</br>
             }
         });
     }
-     ![image](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/C64DaQ8ukOZX3Zw5aqhoXbQbUqGqcqsiiJ0bJN2kU20!/b/dIIBAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
+     ![2](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/C64DaQ8ukOZX3Zw5aqhoXbQbUqGqcqsiiJ0bJN2kU20!/b/dIIBAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
  ### 3.改变背景颜色
     使用底部按钮弹出对话框
       private void setBackgroundTwo(){
@@ -82,5 +82,5 @@ NoteEditor.updateNote()函数中修改</br>
         builder.setView(view).create().show();
 
     }
-     ![image](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
+     ![3](http://a1.qpic.cn/psb?/V139AMkR4Vdea0/bCiV3OChUGoQ0yepcK.SCWe9yUzqj6k*RgpmRPLXhrc!/b/dG4BAAAAAAAA&bo=RwFIAkcBSAIDACU!&rf=viewer_4)
 

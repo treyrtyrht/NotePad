@@ -11,6 +11,7 @@ initial
 NoteEditor.updateNote()函数中修改</br>
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");//设置日期格式</br>
         values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, df.format(new Date()));
+         ![image](http://a3.qpic.cn/psb?/V139AMkR4Vdea0/*GO9xy7hf*IdT4C0OOVpVktcwdq3pXIwiTlvzAR3qgI!/b/dG0BAAAAAAAA&bo=VwFvAlcBbwIDACU!&rf=viewer_4)
  ### 2.便签搜索
    private void addSearchView() 
    {
